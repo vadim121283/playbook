@@ -13,8 +13,8 @@
 Процессы постоянно развиваются, и мы будем вносить изменения и дополнения в наш Playbook.
 
 ***
-# Мой технологический стек
-[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/vadim121283/my-stack)
+# Технологический стек
+[![StackShare](https://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/vadim121283/my-company)
 
 # Куда смотреть дальше? 
 
